@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Env
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Runtime data
+projects/
+restore_logs/
+
+# Build outputs
+build/
+dist/
+builds/
+*.zip
+*.spec.bak
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
