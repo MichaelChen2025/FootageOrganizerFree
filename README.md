@@ -4,6 +4,9 @@ A lightweight local footage organization tool for video creators.
 
 一个专为视频创作者设计的本地素材整理工具。
 
+<img width="2042" height="1337" alt="image" src="https://github.com/user-attachments/assets/4ba79444-9a96-4e48-9454-47aa086cb69a" />
+
+
 ---
 
 ## 🌐 Language / 语言
